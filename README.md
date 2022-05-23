@@ -141,7 +141,7 @@ Según la gráfica, si mantiene una relación lineal entre voltaje y corriente d
 
 24. Calcule el voltaje para cada valor de I y R:
 
-![image](https://user-images.githubusercontent.com/105565670/169756049-f222dab2-a78e-4a85-9299-894ce6ec9938.png)
+![image](https://user-images.githubusercontent.com/105565670/169758623-4aeb8b2a-c0fe-4397-b7a8-37d94da21b78.png)
 
 26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
 
