@@ -187,7 +187,7 @@ Capítulo 4
 
 10. Convierta las siguientes cantidades en watts:
 
-![image](https://user-images.githubusercontent.com/105565670/169756553-0bfc9dc5-cc14-49bd-9fc4-3c220103649e.png)
+![image](https://user-images.githubusercontent.com/105565670/169758756-a9edec68-4109-4b38-9ccd-6c6a9e3064da.png)
 
 12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
 
